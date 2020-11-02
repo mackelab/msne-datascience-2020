@@ -6,7 +6,9 @@ You find notebooks with slides and exercises in the [notebooks](notebooks/) fold
 
 To download the course content click on the green button `Clone or download` in the top right. Then you can either download a zipped version of the course folders or clone the repository by copying the `link` and using the following command in your terminal:
 
-`git clone https://github.com/cne-tum/msne-datascience-2020.git`
+```commandline
+git clone https://github.com/cne-tum/msne-datascience-2020.git
+```
 
 If there is anything unclear please create an issue.
 
