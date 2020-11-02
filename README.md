@@ -12,6 +12,4 @@ To download the course content click on the green button `Clone or download` in 
 
 `git clone https://github.com/cne-tum/msne-datascience-2020.git`
 
-Alternatively, you can start exploring this repository right here in your browser using [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/cne-tum/msne-datascience-2020/master).
-
 If there is anything unclear please create an issue.
