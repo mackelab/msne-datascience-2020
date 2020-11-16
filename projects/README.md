@@ -20,10 +20,10 @@ as long as you can formulate it as a project with clearly stated problems and de
 
 ### Machine learning projects
 
-- M1: [Getting started with PyTorch](ml_projects/pytorch_mnist.md)
+- M1: [Getting started with PyTorch](ml_projects/PyTorch/pytorch_mnist.md)
     - learn the basics of PyTorch to quickly implement neural networks to classify handwritten digits.
 
-- M2: [The Perceptron](ml_projects/perceptrons.pdf)
+- M2: [The Perceptron](ml_projects/Perceptron/perceptrons.pdf)
     - understand the very first approaches to artificial neural networks - Perceptrons.
     - implement your own Perceptron from scratch.
 
@@ -34,7 +34,7 @@ as long as you can formulate it as a project with clearly stated problems and de
 
 ### Computational Neuroscience projects
 
-These projects are taken from [a course in the Computational Neuroscience master program at BCCN Berlin](https://www.bccn-berlin.de/courses-and-modules.html#ui-id-11) (thanks @bccn). 
+These projects are kindly provided by [a course in the Computational Neuroscience master program at BCCN Berlin](https://www.bccn-berlin.de/courses-and-modules.html#ui-id-11) (thanks @bccn). 
 Please ignore all the information related to this, e.g., when to submit, and references to the corresponding lecture. 
 
 - N1: [Visual Perception](neuro_projects/1visual_perception/1visual_perception.pdf)
@@ -49,3 +49,6 @@ Please ignore all the information related to this, e.g., when to submit, and ref
 - N4**: [Perceptual Decision Making](neuro_projects/4decision_making/4decision_making.pdf)
     - Implement a classic model of perceptual decision making - the drift diffusion model
     - Learn how to solve partial differential equations in Python
+
+
+**relatively difficult
